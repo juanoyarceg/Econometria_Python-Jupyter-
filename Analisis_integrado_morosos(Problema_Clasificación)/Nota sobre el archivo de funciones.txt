@@ -1,0 +1,3 @@
+Debí implementar funciones directamente en JUPYTER, ya que no al importar
+algunas funciones desde el archivo arrojaban error de importación, revisé las librerías importadas y parece que el problema es que el algunas librerías solamente están instaladas en el entorno de ANACONDA, y al parecer, al llamarlas desde JUPYTER no son reconocidas, por lo que debí 
+transcribirlas directamente aquellas que no fueron reconocidas desde el archivo functiones.py
